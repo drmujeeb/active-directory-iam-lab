@@ -1,0 +1,14 @@
+Ticket:        NMG-0047
+Affected user: Jane Cooper (jcooper@MJ.local)
+Issue:         Access Denied on HR shared resources; desktop policies
+               and mapped drives differ from HR teammates
+Root cause:    Account provisioned to the wrong department:
+               Operations OU and Operations-Users instead of HR
+Fix:           Moved to HR OU; removed from Operations-Users;
+               added to HR-Users;
+               Job Title -> Payroll Specialist; Department -> HR
+Verification:  Member Of shows Domain Users + HR-Users only;
+               Jane listed in HR OU and in HR-Users members;
+               Organization tab shows the new title and department
+Resolved:      October 29, 2026 (verified October 30)
+Resolved by:   Mujeeb Balogun

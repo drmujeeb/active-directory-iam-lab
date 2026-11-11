@@ -1,0 +1,16 @@
+Name,Username,JobTitle,Department,OU,Group
+David Chen,dchen,Finance Manager,Finance,Finance,Finance-Users
+Karen Mills,kmills,Finance Analyst,Finance,Finance,Finance-Users
+Robert Hayes,rhayes,Payroll Specialist,Finance,Finance,Finance-Users
+Lisa Park,lpark,Accounts Payable,Finance,Finance,Finance-Users
+Sandra Torres,storres,HR Manager,HR,HR,HR-Users
+James Whitfield,jwhitfield,HR Recruiter,HR,HR,HR-Users
+Michelle Grant,mgrant,Benefits Coordinator,HR,HR,HR-Users
+Jane Cooper,jcooper,Payroll Specialist,HR,HR,HR-Users
+Marcus Johnson,mjohnson,IT Administrator,IT,IT,IT-Users
+Priya Patel,ppatel,Security Analyst,IT,IT,IT-Users
+Tyler Brooks,tbrooks,Help Desk Technician,IT,IT,IT-Users
+Aisha Coleman,acoleman,Systems Engineer,IT,IT,IT-Users
+Brian Foster,bfoster,Operations Manager,Operations,Operations,Operations-Users
+Carlos Rivera,crivera,Facilities Supervisor,Operations,Operations,Operations-Users
+Natalie Ross,nross,Scheduling Coordinator,Operations,Operations,Operations-Users
