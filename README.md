@@ -195,4 +195,4 @@ Fixing only the group would have restored access but left her desktop wrong. Rem
 
 ---
 
-*Built and documented by Mujeeb Adeyemi Balogun, October 2026, as part of the Northstar Medical Group 7-day IAM training lab. Screenshots are from the MJ-DC1 virtual machine and keep the server's clock as a timestamp.*
+*Built and documented by Mujeeb Adeyemi Balogun, October 2026, as part of TotalThreat’s 7-day IAM challenge (Northstar Medical Group scenario). Screenshots are from the MJ-DC1 virtual machine and keep the server’s clock as a timestamp. The lab work, troubleshooting, and decisions are my own; I used AI (Claude) to help draft, edit, and format this write-up.*
